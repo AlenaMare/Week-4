@@ -1,6 +1,6 @@
-==================================================================
+============================
 Getting and Cleaning Data - Week 4
-==================================================================
+============================
 
 README expains each step of the R code, which is structured based on the instruction of assignment.
 
